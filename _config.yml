@@ -1,0 +1,28 @@
+name: Circle Yoga Shala
+favicon: null
+layout_spectrum: 0.9468691528309137
+typography_spectrum: 0.3418492602650076
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.754776758607477
+  lightness: 0.11718494864180684
+  saturation: 0.2988219663966447
+  rhythmicContrast: 0.2401794921606779
+purpose: []
